@@ -9,6 +9,7 @@ fragment ProductFragment on Product {
   productType
   title
   vendor
+  tags
   publishedAt
   onlineStoreUrl
   options {
